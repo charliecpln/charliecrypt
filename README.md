@@ -18,3 +18,16 @@ Not: Bu araçda hatalar meydana gelmesi doğaldır lütfen bize bildirin veya no
 iletişim:
   Discord: @charliecpln
   Telegram: @charliecpln
+
+**INSTALLATION**
+
+*Linux*
+sudo git clone https://github.com/charliecpln/charliecrypt.git
+cd charliecrypt/
+cd linux
+cd sifrelemelinux
+chmod +x sifreleme
+./sifreleme
+
+*Windows*
+You just need dowload the windows folder
